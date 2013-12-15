@@ -11,8 +11,8 @@ import (
 	"log"
 	"os"
 
-	"bazil.org/fuse"
-	"bazil.org/fuse/fs"
+	"github.com/surullabs/fuse"
+	"github.com/surullabs/fuse/fs"
 )
 
 var Usage = func() {

@@ -19,8 +19,8 @@ import (
 )
 
 import (
-	"bazil.org/fuse"
-	"bazil.org/fuse/fuseutil"
+	"github.com/surullabs/fuse"
+	"github.com/surullabs/fuse/fuseutil"
 )
 
 var fuseRun = flag.String("fuserun", "", "which fuse test to run. runs all if empty.")

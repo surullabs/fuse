@@ -13,7 +13,7 @@ import (
 )
 
 import (
-	"bazil.org/fuse"
+	"github.com/surullabs/fuse"
 )
 
 // A Tree implements a basic read-only directory tree for FUSE.

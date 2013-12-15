@@ -18,8 +18,8 @@ import (
 )
 
 import (
-	"bazil.org/fuse"
-	"bazil.org/fuse/fuseutil"
+	"github.com/surullabs/fuse"
+	"github.com/surullabs/fuse/fuseutil"
 )
 
 // TODO: FINISH DOCS
